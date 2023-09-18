@@ -1,0 +1,11 @@
+a { text-decoration: none;
+    color:blue;
+
+
+}
+
+a:hover
+{color: rgb(250, 144, 161);
+text-decoration: underline;
+
+}
